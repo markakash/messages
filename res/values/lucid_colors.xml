@@ -16,7 +16,7 @@
     limitations under the License.
 -->
 <resources>
-    <color name="lucid_accent">##FF3F84</color>
+    <color name="lucid_accent">#ff3f84</color>
     <color name="button_text">#000000</color>
 
     <color name="navigation_bar_bg">@android:color/white</color>
